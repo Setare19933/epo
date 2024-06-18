@@ -1,6 +1,6 @@
 # Logs
 logsaw
-*.logzz
+*.logzz/'
 npm-debug.log*
 yarn-debug.log*//hh
 yarn-error.log*//
