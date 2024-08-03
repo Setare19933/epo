@@ -46,7 +46,7 @@ typings/
 # Optional npm cache directoryjnj
 .npm
 
-# Optional eslint cache
+# Optional eslint cacheafga
 .eslintcache
 
 # Microbundle cache
