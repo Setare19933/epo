@@ -38,7 +38,7 @@ build/Release
 
 # Dependency directoriesvg
 # TypeScript v1 declaration files
-typings/
+typings/nmv
 
 # TypeScript cache
 *.tsbuildinfo
