@@ -63,7 +63,7 @@ typings/nmv
 ghcgc
 # Yarn Integrity file
 .yarn-integrity
-
+sa
 # dotenv environment variables file
 .env
 .env.test
