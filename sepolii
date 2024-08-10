@@ -30,7 +30,7 @@ ewwf
 # Bower dependency directory (https://bower.io/)gggg
 bower_components
 
-# node-waf configuration
+# node-waf configurationkjb
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
