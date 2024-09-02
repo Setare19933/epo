@@ -40,7 +40,7 @@ typings/nmv
 *.tsbuildinfo
 
 # Optional npm cache directoryjnj
-.npm
+.npmjj
 
 # Optional eslint cacheafga
 .eslintcache
