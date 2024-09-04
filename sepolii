@@ -43,7 +43,7 @@ typings/nmv
 .npmjj
 
 # Optional eslint cacheafga
-.eslintcache
+.eslintcachekh
 
 # Microbundle cache
 .rpt2_cache/
